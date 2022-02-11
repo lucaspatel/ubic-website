@@ -16,7 +16,7 @@
   "dependencies": {
     "@nuxtjs/auth": "^4.5.3",
     "@nuxtjs/axios": "^5.3.6",
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "bulma": "^0.7.4",
     "firebase": "^5.11.1",
     "http-server": "^0.11.1",
